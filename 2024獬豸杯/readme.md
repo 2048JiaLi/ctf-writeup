@@ -65,6 +65,6 @@
 A．手机通讯录B.手机短信C.相册D.GPS定位信息E.手机应用列表
 ```
 
-<img src="D:\CTF\真题\ctf-writeup\2024獬豸杯\image\官方.jpg" style="zoom: 50%;" />
+<img src="./image/官方.jpg" style="zoom: 50%;" />
 
-<img src="D:\CTF\真题\ctf-writeup\2024獬豸杯\image\计分板.png" style="zoom:50%;" />
+<img src="./image/计分板.png" style="zoom:50%;" />
