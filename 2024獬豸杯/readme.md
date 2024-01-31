@@ -14,7 +14,7 @@
   > 提取码：xzcp
 
 ### WP
-[獬豸杯](./獬豸杯wp.pdf)
+[獬豸杯](./WP.md)
 
 ###  题目（解压密码：都考100分）
 
@@ -65,6 +65,6 @@
 A．手机通讯录B.手机短信C.相册D.GPS定位信息E.手机应用列表
 ```
 
-<img src="./image/官方.jpg" style="zoom: 50%;" />
+<img src="./images/官方.jpg" style="zoom: 50%;" />
 
-<img src="./image/计分板.png" style="zoom:50%;" />
+<img src="./images/计分板.png" style="zoom:50%;" />
